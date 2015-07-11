@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">办公定位</string> 
+    <string name="lng">经度</string> 
+    <string name="txtlng">经度值</string> 
+    <string name="lat">纬度</string> 
+    <string name="txtlat">纬度值</string> 
+    <string name="demo_name_basemap">基本地图功能</string>
+    <string name="demo_title_basemap">基本地图功能--BaseMapDemo</string>  
+    <string name="demo_name_location">定位图层展示</string>
+    <string name="demo_title_location">定位图层展示--LocationDemo</string>
+    <string name="demo_desc_location">介绍定位图层的基本用法</string>   
+    <string name="key_error">"请在  DemoApplication.java文件输入正确的授权Key！\r\n申请地址：http://dev.baidu.com/wiki/static/imap/key/"</string>
+    <string name="title_activity_panorama_demo">全景图功能</string>
+    
+
+</resources>
